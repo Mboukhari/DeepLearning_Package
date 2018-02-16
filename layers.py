@@ -2,7 +2,7 @@
 """
 @date: 2017/09/10
 @version: 0.0.1
-@author: AGAMBO & CFANG
+@author: AGAMBO & CFANG & MBOUKHARI
 """
 
 import numpy as np
